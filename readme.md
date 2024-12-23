@@ -8,16 +8,6 @@
   cmake CMakeLists.txt
   make
   ```
-* feature<br>
-  * 线程池<br>
-  * CAS计数器<br>
-  * task queue<br>
-  * C11<br>
-  * priority queue<br>
-  * buffer<br>
-  * epoll<br>
-  * http<br>
-  * reactor mode<br>
 
 * usage<br>
   -p:指定端口号（默认23333）<br>
